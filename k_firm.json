@@ -1,0 +1,46 @@
+{
+   "3": {
+      "k": 15,
+      "firm": "Astral"
+   },
+   "A": {
+      "k": 5,
+      "firm": "Astral"
+   },
+   "B": {
+      "k": 10,
+      "firm": "Astral"
+   },
+   "C": {
+      "k": 15,
+      "firm": "Astral"
+   },
+   "Ax": {
+      "k": 5,
+      "firm": "Astral"
+   },
+   "Bx": {
+      "k": 10,
+      "firm": "Astral"
+   },
+   "Cx": {
+      "k": 15,
+      "firm": "Astral"
+   },
+   "CUFV": {
+      "k": 5,
+      "firm": "Cepex"
+   },
+   "CUP": {
+      "k": 10,
+      "firm": "Cepex"
+   },
+   "Db": {
+      "k": 20,
+      "firm": "Idrania"
+   },
+   "Df": {
+      "k": 20,
+      "firm": "Idrania"
+   }
+}
